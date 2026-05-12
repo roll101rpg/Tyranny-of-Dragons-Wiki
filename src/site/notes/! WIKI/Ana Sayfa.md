@@ -39,5 +39,6 @@ Lux Tenebris'in karşısına çıkan gölgelerin ardındaki gerçek güçler.
 
 ---
 > "Tiamat'ın fısıltıları dinmiş olabilir ancak tarih bu direnişi asla unutmayacak. Sayfaların arasında kaybolun; çünkü en büyük efsaneler, satır aralarında gizlidir."
+
 > “Faerun, kötülüğün sonunu getirmişti. Ancak her son bir başlangıçtı. Tiamat’ın yenilgisinden sonra travmatize olmuş kıtada güç dengeleri sallanmaktaydı. Güvensizlik hakimdi. Her an, her yerden başka bir tehdit gelebilirdi. Gelecek belirsizdi. İdeolojik ayrılıklar ortaya çıktı. Bu da ülkeleri, silahlanmanın yanında büyüsel silahlanmaya itti. Ejder Tarikatı ve Kara Kan’ın büyücüleri, gizli projelerde çalıştırılmak üzere görevlendirilmişti. Herkes bir yarış halindeydi. Kıta, soğuk savaşa girmişti.”
 
