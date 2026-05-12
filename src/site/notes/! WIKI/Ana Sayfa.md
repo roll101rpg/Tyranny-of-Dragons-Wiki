@@ -4,7 +4,7 @@
 
 ![Tyranny of Dragons](https://i.imgur.com/bLC4D2T.jpeg)
 
-DİKKAT! Youtube'da yayınlanmış olan oyunumuzun sitesidir. Spolier içermektedir. Bu [linkten](https://www.youtube.com/@Roll101RPG) kanalımıza ulaşabilirsiniz
+> **DİKKAT! Youtube'da yayınlanmış olan oyunumuzun sitesidir. Spolier içermektedir. Bu [linkten](https://www.youtube.com/@Roll101RPG) kanalımıza ulaşabilirsiniz**
 
 # Ejderhaların Tiranlığı: Kılıç Sahili Arşivi
 
