@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/wiki/ana-sayfa/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
+![Tyranny of Dragons](https://i.imgur.com/bLC4D2T.jpeg)
+
 # Ejderhaların Tiranlığı: Kılıç Sahili Arşivi
 
 Kılıç Sahili tehlikede! Kışgörmez (Neverwinter), Baldur Geçidi, Derinsu (Waterdeep) gibi şehirler, ticaret karavanları / gemileri ve daha niceleri ejderhalar tarafından saldırıya uğramıştır. Kılıç Sahili ayaklanmanın eşiğindedir. Durum çok vahimdir. Ancak Kılıç Sahili asla savunmasız değildir. Kılıç Sahili halkı, Ejderhaların Tiranlığı'na karşı koyacak cesur kahramanlarını beklemektedir...
@@ -18,7 +20,7 @@ Geçmişin yankıları bu kütüphanede yaşamaya devam ediyor. Olayların perde
 
 ### Kahramanlar ve Yoldaşlar
 Kılıç Sahili'nin kaderini sırtlayanların kayıtları.
-* [[! WIKI/Müttefikler ve Konsey/Müttefikler ve Konsey\|Müttefikler ve Konsey]]: Savaş alanında kılıç çeken dostlar, Derinsu meclislerinde omuz omuza durulan liderler ve umulmadık anlarda el uzatanlar.
+* [[! WIKI/Müttefikler ve Konsey/Müttefikler, Dostlar ve Konsey\|Müttefikler, Dostlar ve Konsey]]: Savaş alanında kılıç çeken dostlar, Derinsu meclislerinde omuz omuza durulan liderler ve umulmadık anlarda el uzatanlar.
 
 ### Kılıç Sahili ve Ötesi (-Şimdilik Boş-)
 Savaşın izlerini taşıyan coğrafyanın detaylı bir dökümü.
