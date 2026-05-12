@@ -6,6 +6,6 @@
 [[! WIKI/Müttefikler ve Konsey/Axone\|Axone]]
 [[! WIKI/Müttefikler ve Konsey/Azalea\|Azalea]]
 [[! WIKI/Müttefikler ve Konsey/Dedektif Val\|Dedektif Val]]
-[[Edo'\|Edo']]
+[[! WIKI/Müttefikler ve Konsey/Edo'nun Ustaları\|Edo'nun Ustaları]]
 
 [[! WIKI/Müttefikler ve Konsey/Hokkabaz\|Hokkabaz]]
